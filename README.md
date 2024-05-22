@@ -1,0 +1,1 @@
+This project is a school management system application. The app can be used to manage student and teacher information. New student and teacher information can be added, existing student information can be updated and deleted through student and teacher forms. The data is stored in a MySQL database.
