@@ -10,7 +10,7 @@ import java.sql.Statement;
 public class StudentDb {
 
     public Connection getConnected() throws SQLException {
-        return DriverManager.getConnection("jdbc:mysql://localhost:3306/student", "root", "ilayda123");
+        return DriverManager.getConnection("jdbc:mysql://localhost:3306/student", "root", "");
     }
 
     public ResultSet getStudents() throws SQLException {
